@@ -1,0 +1,16 @@
+Recording,Segment,Label
+emg_data2,segment_1_2.csv,rest
+emg_data2,segment_2_2.csv,rest
+emg_data2,segment_3_2.csv,rest
+emg_data2,segment_4_2.csv,wrist extension
+emg_data2,segment_5_2.csv,rest
+emg_data2,segment_6_2.csv,wrist flexion
+emg_data2,segment_7_2.csv,rest
+emg_data2,segment_8_2.csv,ulnar deviation
+emg_data2,segment_9_2.csv,rest
+emg_data2,segment_10_2.csv,radial deviation
+emg_data2,segment_11_2.csv,rest
+emg_data2,segment_12_2.csv,punch
+emg_data2,segment_13_2.csv,rest
+emg_data2,segment_14_2.csv,open hand
+emg_data2,segment_15_2.csv,rest
